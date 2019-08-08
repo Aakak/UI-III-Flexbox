@@ -63,14 +63,13 @@ h1, h2, h3, h4, h5 {
     margin-bottom: 15px;
 }
 
+
+
+
+
+
+
 /* Copy and paste your work from yesterday here and start to refactor into flexbox */
-
-
-
-
-
-
-
 
 
 .main-container {
@@ -101,8 +100,6 @@ header .logo {
   display: flex;
   margin-top: 25px;
 }
-
-
 
 /* Welcome Section */
 
@@ -179,6 +176,9 @@ footer p{
   font-size: 14px;
 }
 
+
+
+
 		 /* Services Page CSS */
 .main-services-container{
 	width: 880px;
@@ -192,9 +192,10 @@ footer p{
 		}
 		
 .services {
-			padding-bottom: 10px;
-			border-bottom: 1px solid black;
-		}
+	padding-bottom: 10px;
+	border-bottom: 1px solid black;
+		
+}
 
 
 .row {
@@ -232,16 +233,12 @@ footer p{
 	border: none;
 	justify-content: center;
     align-items: center;
-    overflow: hidden
+    overflow: hidden;
 }
 .buttom-img.section-box.img {
 	min-width: 100%;
     min-height: 100%
 }
-
-.item6 p {
-	padding-bottom: 20px;
-} 
 
 
 .main-services-section button{
